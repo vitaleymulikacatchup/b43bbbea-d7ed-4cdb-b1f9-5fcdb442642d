@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -108,8 +108,7 @@ export default function Home() {
               role: "Beginner Paddler",
               company: "Adventure Seeker",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/34407205/pexels-photo-34407205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              content: "Fred's patient teaching style and deep knowledge made learning kayaking an incredible experience. His focus on safety while building confidence is exactly what I needed as a beginner."
+              imageSrc: "https://images.pexels.com/photos/34407205/pexels-photo-34407205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "2",
@@ -117,8 +116,7 @@ export default function Home() {
               role: "Intermediate Kayaker",
               company: "Weekend Warrior",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/2157168/pexels-photo-2157168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              content: "The advanced techniques Fred taught me took my kayaking to the next level. His expertise in reading water and understanding river dynamics is unmatched."
+              imageSrc: "https://images.pexels.com/photos/2157168/pexels-photo-2157168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "3",
@@ -126,8 +124,7 @@ export default function Home() {
               role: "Advanced Student",
               company: "Whitewater Enthusiast",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/5756664/pexels-photo-5756664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              content: "Fred's rescue training program is comprehensive and potentially life-saving. His real-world experience and teaching ability make complex techniques accessible and memorable."
+              imageSrc: "https://images.pexels.com/photos/5756664/pexels-photo-5756664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "4",
@@ -135,8 +132,7 @@ export default function Home() {
               role: "Rescue Trainee",
               company: "Safety Focused",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/5868243/pexels-photo-5868243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              content: "The confidence and skills I gained from Fred's instruction have made me a much safer and more capable kayaker. His passion for the sport is truly inspiring."
+              imageSrc: "https://images.pexels.com/photos/5868243/pexels-photo-5868243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             }
           ]}
         />
